@@ -1,5 +1,5 @@
 
-<h1 align="center">Hey there!👋 Jean Carlos Ruiz</h1>
+<h1 align="center">Hey there!👋</h1>
 <h3 align="center">Professional Frontend Developer</h3>
 
 <img align="right" alt="Coding" width="400" src=./jean-gift.gif>
