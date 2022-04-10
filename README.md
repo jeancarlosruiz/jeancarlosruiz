@@ -3,7 +3,7 @@
 <h1 align="center">Hey there!👋 Jean Carlos Ruiz</h1>
 <h3 align="center">Professional Frontend Developer</h3>
 
-![](/jean%20gift.gif)
+![](/jean-gift.gif)
 
 
 - 🔭 I’m currently working on **Frontend Mentor Challenges and Own projects**
