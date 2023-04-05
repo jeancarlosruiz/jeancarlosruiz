@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Frontend Mentor Challenges and Own projects**
 
-- 🌱 I’m currently learning **JavaScript and ReactJS**
+- 🌱 I’m currently learning ReactJS**
 
 - 📫 How to reach me **jeancarlosruizv@gmail.com**
 
