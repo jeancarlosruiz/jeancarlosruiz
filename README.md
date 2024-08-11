@@ -1,3 +1,5 @@
+## About Me
+Frontend Developer with over 1 year in the industry, solid experience with Next.js, Nuxt, Astro, and continuously learning new skills. Adept at collaborating with cross-functional teams and committed to delivering high-quality solutions.
 
 ## Skills
 - **Languages:** JavaScript, TypeScript.
