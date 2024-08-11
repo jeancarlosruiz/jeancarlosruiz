@@ -2,9 +2,15 @@
 Frontend Developer with over 1 year in the industry, solid experience with Next.js, Nuxt, Astro, and continuously learning new skills. Adept at collaborating with cross-functional teams and committed to delivering high-quality solutions.
 
 ## Skills
-- **Languages:** JavaScript, TypeScript.
-- **Frameworks & Libraries:** React, Next.js, Vue.js, Nuxt.js, Playwright.
-- **Tools & Platforms:** GitHub, Vercel.
+-	**Programming Languages:** JavaScript, TypeScript
+-	**Web Technologies:** Html, CSS, React, Next.js, Vue, Nuxt, Tailwind, Vuetify, Node.js, GraphQL
+-	**IC/DC:** GitHub Actions
+-	**ORM**: Prisma, Drizzle ORM
+-	**Cloud Services:** Turso - SQLite, Firebase, Render - PostgreSQL
+-	**Testing:** Jest, Playwright
+-	**Design to code:** Figma
+-	**Soft Skills:** Effective Communication, Strategic problem-solving, Team Collaboration, Focused, Continuous learning, Discipline, Self-directed learning.
+
 
 ## Projects
 - **[Tools](https://github.com/jeancarlosruiz/tools):** This is my every day tools in web development.
