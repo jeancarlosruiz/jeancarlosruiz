@@ -14,6 +14,7 @@ Skilled in Frontend development, solid experience with Next.js, Nuxt, Astro, and
 
 ## Projects
 - **[Tools](https://github.com/jeancarlosruiz/tools):** This is my every day tools in web development.
+- **[Kanban task](https://github.com/jeancarlosruiz/kanban-task):** Guru challenge from [Frontend Mentor](https://www.frontendmentor.io/home) made with Nextjs, Turso, Playwright, GitHub Actions and more.
 
 ## Let's get in touch
 - 📫 [Email](mailto:contactme@jeancarlosruiz.com)
