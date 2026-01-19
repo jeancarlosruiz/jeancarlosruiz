@@ -1,11 +1,11 @@
 ## About Me
-Skilled in Frontend development, solid experience with Next.js, Nuxt, Astro, and continuously learning new skills. Adept at collaborating with cross-functional teams and committed to delivering high-quality solutions.
+Experienced Frontend Developer building production applications with Nuxt.js, Nextjs and modern development practices including testing (Jest, Playwright) and CI/CD workflows. Currently expanding into full-stack development with Node.js, Go and AWS.
 
 ## Skills
--	**Programming Languages:** JavaScript, TypeScript
--	**Web Technologies:** Html, CSS, React, Next.js, Vue, Nuxt, Tailwind, Vuetify, Node.js, GraphQL
+-	**Programming Languages:** JavaScript, TypeScript, Go
+-	**Web Technologies:** React, Next.js, Vue, Nuxt, Tailwind, Vuetify, Node.js, GraphQL
 -	**IC/DC:** GitHub Actions
--	**ORM**: Prisma, Drizzle ORM
+-	**ORM**: Prisma, Drizzle ORM, GORM
 -	**Cloud Services:** Turso - SQLite, Firebase, Render - PostgreSQL
 -	**Testing:** Jest, Playwright
 -	**Design to code:** Figma
@@ -13,5 +13,5 @@ Skilled in Frontend development, solid experience with Next.js, Nuxt, Astro, and
 
 
 ## Let's get in touch
-- 📫 [Email](mailto:contactme@jeancarlosruiz.com)
+- 📫 [Email](mailto:hi@jeanruiz.dev)
 - 🏢 [LinkedIn](https://www.linkedin.com/in/jeancarlosruiz)
