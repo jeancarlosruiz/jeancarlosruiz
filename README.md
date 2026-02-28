@@ -1,5 +1,5 @@
 ## About Me
-Experienced Frontend Developer building production applications with Nuxt.js, Nextjs and modern development practices including testing (Jest, Playwright) and CI/CD workflows. Currently expanding into full-stack development with Node.js, Go and AWS.
+Experienced Fullstack Developer building production applications with Nuxt.js, Nextjs, Node.js, Express.js and modern development practices including testing (Jest, Playwright) and CI/CD workflows. Currently expanding knowledge with Go and AWS.
 
 ## Skills
 -	**Programming Languages:** JavaScript, TypeScript, Go
@@ -13,5 +13,5 @@ Experienced Frontend Developer building production applications with Nuxt.js, Ne
 
 
 ## Let's get in touch
-- 📫 [Email](mailto:hi@jeanruiz.dev)
-- 🏢 [LinkedIn](https://www.linkedin.com/in/jeancarlosruiz)
+- 📫 [hi@jeanruiz.dev](mailto:hi@jeanruiz.dev)
+- 🏢 [Jean Carlos Ruiz](https://www.linkedin.com/in/jeancarlosruiz)
